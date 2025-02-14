@@ -1,0 +1,1 @@
+This repository demonstrates a common Perl error: attempting string comparison with an uninitialized variable.  The `bug.pl` file shows the erroneous code, resulting in an "uninitialized value" warning. The solution, provided in `bugSolution.pl`, demonstrates the correct approach using defined() to prevent the warning and handle undefined values gracefully.
