@@ -1,0 +1,1 @@
+my $var = undef;if (defined($var) && $var eq 'some string'){print "true"}else{print "false"} #check if var is defined before comparison
